@@ -5,7 +5,7 @@ Spaceship: The Game é um jogo simples realizado em arduinoIDE com o objetivo de
 
 <p float="left">
 
-<img src="[https://github.com/IgorAleixo/Spaceship-The-Game/issues/1#issue-1805277612.jpg](https://user-images.githubusercontent.com/139579413/253642752-750cd353-4d7e-4e9a-af93-63acc2d027ed.png)https://user-images.githubusercontent.com/139579413/253642752-750cd353-4d7e-4e9a-af93-63acc2d027ed.png" width="200" />
+<img src="https://user-images.githubusercontent.com/139579413/253642752-750cd353-4d7e-4e9a-af93-63acc2d027ed.png" width="200" />
 
 </p>
 
